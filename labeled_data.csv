@@ -1,0 +1,16 @@
+text,sentiment
+I love this movie!,positive
+This book is amazing.,positive
+The food was delicious.,positive
+The service was terrible.,negative
+I didn't enjoy the show.,negative
+The movie was fantastic!,positive
+The book is a masterpiece.,positive
+The food was excellent.,positive
+The service was awful.,negative
+I hated the performance.,negative
+The movie made me smile.,positive
+The book is captivating.,positive
+The food was outstanding.,positive
+The service was poor.,negative
+I was disappointed by the play.,negative
